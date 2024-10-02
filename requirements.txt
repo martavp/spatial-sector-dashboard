@@ -1,6 +1,6 @@
 streamlit>=1.25
 pyyaml
-numpy == 1.23.5
+numpy==1.23.5
 pandas
 matplotlib
 plotly
